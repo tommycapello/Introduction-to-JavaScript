@@ -13,11 +13,11 @@ The module challenge is the afternoon project or assignment that students work t
 - write a basic for loop / while loop.
 - write control flow using if/else statements.
 - use function declarations, expressions, and arrow
-functions and describe their differences
-  
+- functions and describe their differences
+
 ## Introduction
 
-Today you'll worth through 7 JavaScript Tasks to practice today's objectives and get familiar and comfortable with the foundations of JavaScript. 
+Today you'll worth through 7 JavaScript Tasks to practice today's objectives and get familiar and comfortable with the foundations of JavaScript.
 
 Exercises are outlined in the `index.js` file, please read the instructions carefully for each task and complete it. Note that you may have to use your googling skills to research and look things up if you do not have all the information you need to complete the task.
 
@@ -38,7 +38,7 @@ Using VSCode and Command Line:
 
 ### Task 2: MVP
 
-Find the `index.js` file and complete the tasks as written. 
+Find the `index.js` file and complete the tasks as written.
 
 As you work on your code you should make use of `console.log` to check your progress and debug.
 
@@ -46,7 +46,7 @@ As you work on your code you should make use of `console.log` to check your prog
 
 After you have completed the requirements, try any of the following challenges. As always, note that these may require additional research beyond what you learned in this module.
 
-- [ ] See tasks labelled stretch. Please ensure you've completed MVP before you attempt the stretch goals. Note that you may need to look forward to tomorrow's training kit in order to complete the task. 
+- [ ] See tasks labelled stretch. Please ensure you've completed MVP before you attempt the stretch goals. Note that you may need to look forward to tomorrow's training kit in order to complete the task.
 
 ## Submission format
 
